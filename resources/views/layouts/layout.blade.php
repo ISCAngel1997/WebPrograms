@@ -45,7 +45,7 @@
     body
     {
         background-color: #385d7a;
-    }
+    }   
     footer
     {
         background-color: #040505;
